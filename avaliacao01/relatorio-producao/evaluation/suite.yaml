@@ -1,0 +1,9 @@
+- tab: "Saída esperada"
+  contexts:
+    - testcases:
+        - expression: main
+          stdout: |
+            4 8 12 16 20
+            Quantidade: 5
+            Soma: 60
+            Produção: ALTA

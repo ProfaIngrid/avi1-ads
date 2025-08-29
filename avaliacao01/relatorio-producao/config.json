@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "en": "Relatório de Produção"
+    }
+  },
+  "programming_language": "java",
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "access": "public"
+}

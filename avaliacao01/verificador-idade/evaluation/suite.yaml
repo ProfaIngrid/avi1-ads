@@ -1,0 +1,6 @@
+- tab: "Saída esperada"
+  contexts:
+    - testcases:
+        - expression: main
+          stdout: |
+            Passe escolar: SIM
